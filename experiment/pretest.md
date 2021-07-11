@@ -1,4 +1,4 @@
-## <b> Pre-test
+## <b> Pre-test</b>
 #### Please attempt the following questions
 
 1) The reduce and reduceRight methods follow a common operation called __________<br>
