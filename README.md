@@ -17,7 +17,7 @@ Students will create an html page to explain the use of various predefined funct
 
 <h5> Target Audience : </h5>
 
-Students of CSE, IT, CSIT annd CO Dept. in Engineering
+Students of IT, CSE, CSIT annd CO Dept. in Engineering
 
 <h5> Course Alignment : </h5>
 
